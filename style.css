@@ -33,7 +33,7 @@ a{
 
 #featured-property p {
   text-align: center;
-  margin:800px;
+  min-width: 800px;
 }
 
 #details div{
