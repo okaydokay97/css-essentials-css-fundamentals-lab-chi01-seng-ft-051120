@@ -8,9 +8,7 @@ h1 {
   text-align: center;
 }
 
-#featured-property{
-  text-align: center;
-}
+
 
 #featured-property img {
   display: block;
@@ -34,7 +32,7 @@ a{
 }
 
 #featured-property p {
-  /*width: 800px;*/
+  width: 800px;
 }
 
 
