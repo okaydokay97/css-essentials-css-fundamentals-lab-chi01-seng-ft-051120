@@ -27,10 +27,11 @@ nav a {
   font-size: 14px;
 }
 
-#featured-property p {
+#featured-property > p {
   text-align: center;
   width: 800px;
 }
+
 
 
 
