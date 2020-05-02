@@ -32,7 +32,9 @@ nav a {
   width: 800px;
 }
 
-
+#details {
+  display: block;
+}
 
 
 
